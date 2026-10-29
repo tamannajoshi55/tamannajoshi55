@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Tamanna Joshi 👋
 
-<!--
-**tamannajoshi55/tamannajoshi55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Com (Hons.) graduate from the University of Delhi, now pursuing a PGDM at FIIB, New Delhi. I enjoy analytical thinking, teamwork and clear documentation, and I'm building a career in business management.
 
-Here are some ideas to get you started:
+🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **PGDM**, Fortune Institute of International Business (FIIB), New Delhi (2026 – Present)
+- **B.Com (Hons.)**, University of Delhi, School of Open Learning (2023 – 2025)
+- **12th Standard**, Government Co-Ed Sr. Secondary School, Preet Vihar (2022)
+- **10th Standard**, Rishabh Public School (2020)
+
+🛠️ Skills
+
+Communication · Organizational Skills · Analytical Thinking · Teamwork · Problem Solving  · Business Management Fundamental 
+
+
+
+📜 Certifications
+
+- Stenography Course, YMCA
+
+## 💡 Interests
+
+Business Management · Marketing · Organizational Development
